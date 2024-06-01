@@ -1,5 +1,5 @@
 module.exports = {
-        TOKEN: '', //bot token
+        TOKEN: 'MTI0NDI3NzY5NTgwNjgzMjcxMA.G1Js1q.U7zBKyTtzEFtIU8LotrWE0SixWTZEukyGb4Fjg', //bot token
         playing: 'Music Bot',
         mongoDB: "", //mongoDB url.
         dblToken: "", //top.gg token.
